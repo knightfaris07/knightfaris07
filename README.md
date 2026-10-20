@@ -1,32 +1,20 @@
-# Hi there 👋
+# Faris | Apps, web, and AI
 
-I build apps and websites with AI: iOS apps in SwiftUI, Arabic-first web experiences, and Claude skills that make AI coding faster.
+I build iPhone apps and web experiences with AI-assisted tools, with a focus on SwiftUI, Arabic and RTL interfaces, and practical Claude workflows.
 
-- 🤖 Building with **Claude Code**, Cursor and Windsurf
-- 📱 Shipping **SwiftUI** apps for iPhone
-- 🌍 Designing **Arabic / RTL** websites
-- 🧠 Collecting and writing **Claude skills**
+## Projects
 
-## Featured projects
-
-| Project | What it is | Built with |
+| Project | Overview | Stack |
 | --- | --- | --- |
-| [Daily Advisor](https://github.com/knightfaris07/daily-advisor) | A daily AI coaching session with Claude, grounded in today's business news | Swift · SwiftUI · Claude API |
-| [My Tasks](https://github.com/knightfaris07/my-tasks) | Task manager with a Supabase backend, deployed on Vercel | Node.js · Supabase · Vercel |
-| [Calculator](https://github.com/knightfaris07/calculator-app) | iPhone-style calculator | Swift · SwiftUI |
-| [Craving Roulette](https://github.com/knightfaris07/craving-roulette) | Swipe nearby food like Tinder to decide what to eat *(in progress)* | HTML · JS |
+| [Daily Advisor](https://github.com/knightfaris07/daily-advisor) | A daily coaching chat with Claude, informed by current business news. | Swift, SwiftUI, Anthropic API |
+| [My Tasks](https://github.com/knightfaris07/my-tasks) | A task manager backed by Supabase and deployed on Vercel. | Node.js, Supabase, Vercel |
+| [Craving Roulette](https://github.com/knightfaris07/craving-roulette) | A nearby-food picker with a swipe-to-decide concept. In progress. | HTML, JavaScript |
+| [Calculator App](https://github.com/knightfaris07/calculator-app) | A calculator app for iPhone. | Swift, SwiftUI |
 
-## Tools I use
+## Current focus
 
-![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white)
+Building out Craving Roulette and exploring Claude skills that make everyday coding workflows more useful.
 
-## Currently
+## Tools
 
-- Turning Craving Roulette into a full swipe-to-decide app
+Swift · SwiftUI · JavaScript · HTML · CSS · Supabase · Vercel · Claude Code · Cursor · Windsurf
